@@ -73,7 +73,7 @@ Samsung's official instructions: https://developer.samsung.com/smarttv/develop/g
 ├── README.md                         # Overview and milestones
 ├── AGENTS.md                         # Working rules for Codex, Claude, other coding agents
 ├── CLAUDE.md                         # Entry point for Claude Code
-├── PUBLISHING.md                     # How to publish this project privately to GitHub
+├── PUBLISHING.md                     # Repository workflow and coding agent handoff
 ├── docs/
 │   ├── tv-profile.md                # Hardware/software baseline, privacy-safe
 │   ├── getting-started.md           # Step-by-step Mac + TV workflow
